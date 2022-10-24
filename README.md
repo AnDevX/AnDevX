@@ -4,8 +4,8 @@
 - 🫱🏾‍🫲🏻 Open to collaborate
 - 🤖 Working on app, games, web and AI
 - 🫥 
-- - ] Website: www.andevx.com [ -
-- - > Discord DevsLab [WIP] : https://discord.gg/PQsjTfbY < -
+- .] Website: www.andevx.com [.
+- _> Discord DevsLab [WIP] : https://discord.gg/PQsjTfbY <_
 
 
 <!---
