@@ -1,8 +1,8 @@
 - 👊🏾 [AnDevX]
 - 🧑🏾‍💻 Interested in the World
 - 🖥 All Languages learning
-- 🫱🏾‍🫲🏻 Open to collaborate
-- 🤖 Working on app, games, web and AI
+- 🫱🏾‍🫲🏻 Open for collaborations
+- 🤖 Working on app, games, web and cloud
 - 🫥 
 - .] Website: www.andevx.com [.
 - _> Discord DevsLab [WIP] : https://discord.gg/PQsjTfbY <_
