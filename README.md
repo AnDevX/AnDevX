@@ -3,7 +3,7 @@
 - 🖥 All Languages learning
 - 🫱🏾‍🫲🏻 Open for collaborations
 - 🤖 Working on app, games, web and cloud
-- 🫥 
+- 🫥 Home Assistant, Homelab/server and Matter enthusiast
 - .] Website: www.andevx.com [.
 - _> Discord DevsLab [WIP] : https://discord.gg/PQsjTfbY <_
 
